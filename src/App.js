@@ -22,7 +22,7 @@ function AppContent() {
         </Routes>
       </main>
       <footer className="w-full text-center text-xs text-gray-400 py-2">
-        Joey Tursi 2024
+        Joey Tursi, Meier Rexius, Thomas Brodeur, Grace Waida 2024
       </footer>
     </div>
   );
