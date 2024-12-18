@@ -2,6 +2,8 @@
 # ppl-react-proj
 Our React site for our Principles of Programming Languages Extra Credit Assignment
 =======
+Youtube Link: https://www.youtube.com/playlist?list=PLFNbBlDoHwn7H43FCfZqpgr1xgRmmYkkq&jct=8PLeX-pEa7WMvrQjSjLezg
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
